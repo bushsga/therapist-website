@@ -1,5 +1,0 @@
-{
-  "buildCommand": "npm run build || echo 'Build completed' && exit 0",
-  "outputDirectory": ".next",
-  "ignoreBuildErrors": true
-}
